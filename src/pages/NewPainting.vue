@@ -150,7 +150,7 @@
               <v-row>
                 <v-col cols="12">
                   <v-alert outlined type="info" prominent>
-                    You need to approve Gwei smart contract to spend ALGOP.
+                    You need to approve Gwei smart contract to spend ALGOP
                   </v-alert>
                 </v-col>
                 <v-col cols="12" class="mt-n6">
