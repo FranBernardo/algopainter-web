@@ -255,7 +255,7 @@
                 target="_blank"
                 class="mt-2"
               >
-                Click here to see the raw image (high resolution) file
+                Click here to see the raw image (high resolution) file.
               </a>
             </div>
             <v-checkbox
